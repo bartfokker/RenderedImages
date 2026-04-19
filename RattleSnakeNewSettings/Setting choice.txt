@@ -1,0 +1,7 @@
+From the comparison I found, with noise, no color depth reduction in blender and dithering to 16 colors in post processing, looking the best. So I did the renders with noise and no color depth reduction. Dithering can always be applied later.
+
+Possible improvements: 
+Other camera angle?
+Remove light for left eye?
+
+Death without blood looks very grainy
